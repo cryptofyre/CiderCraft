@@ -1,4 +1,5 @@
-# CiderCraft
+
+![CiderCraft-light](https://github.com/cryptofyre/CiderCraft-Modpack/assets/33162551/2bd708c7-aff9-47ad-9a70-5595068cd602)
 
 Welcome to **CiderCraft**, a curated collection of Minecraft mods designed to enhance your gameplay with new adventures, mechanics, and items. This modpack is built for Minecraft version **1.20.1** and requires the Prism Launcher to install and play.
 
