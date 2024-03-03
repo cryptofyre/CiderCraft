@@ -109,6 +109,9 @@
   "waystones": {
     "waystone": true
   },
+  "gravestone": {
+    "grave": true
+  },
   "cookingforblockheads": {
     "fridge": true,
     "oven": true,
