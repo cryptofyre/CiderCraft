@@ -1,12 +1,12 @@
-# [CiderCraft]
+# CiderCraft
 
-Welcome to [CiderCraft], a curated collection of Minecraft mods designed to enhance your gameplay with new adventures, mechanics, and items. This modpack is built for Minecraft version [1.20.1] and requires the Prism Launcher to install and play.
+Welcome to **CiderCraft**, a curated collection of Minecraft mods designed to enhance your gameplay with new adventures, mechanics, and items. This modpack is built for Minecraft version **1.20.1** and requires the Prism Launcher to install and play.
 
 ## Features
 
 List the key features of your modpack, such as new worlds, game mechanics, quests, or any particular focus your modpack has. For example:
 
-- Over [300+] handpicked mods for a comprehensive gameplay overhaul
+- Over **300+** handpicked mods for a comprehensive gameplay overhaul
 - In-depth technical focus
 - Enhanced building mechanics with several QoL mods and changes
 - New dimensions to explore
@@ -14,15 +14,15 @@ List the key features of your modpack, such as new worlds, game mechanics, quest
 
 ## Installation Instructions
 
-Follow these steps to install [CiderCraft] through the Prism Launcher:
+Follow these steps to install **CiderCraft** through the Prism Launcher:
 
 1. **Download the Modpack Zip File**
 
-   Click the "Download" button above or use this link: [Modpack ZIP (main)](https://github.com/cryptofyre/CiderCraft-Modpack/archive/refs/heads/main.zip)
+   Click the "**Download**" button above or use this link: [Modpack ZIP (main)](https://github.com/cryptofyre/CiderCraft-Modpack/archive/refs/heads/main.zip)
 
 2. **Install Prism Launcher**
 
-   If you haven't already, download and install the Prism Launcher from [Prism Launcher download page](https://prismlauncher.org/).
+   If you haven't already, download and **install the Prism Launcher** from [Prism Launcher download page](https://prismlauncher.org/).
 
 3. **Import the Modpack**
 
@@ -46,7 +46,7 @@ If you encounter issues during installation or gameplay, consider the following 
 
 ## Contributing
 
-We welcome contributions and feedback to improve [CiderCraft]. If you have suggestions, please [create an issue on GitHub](https://github.com/cryptofyre/CiderCraft-Modpack/issues) or join our [Discord server](https://discord.gg/applemusic).
+We welcome contributions and feedback to improve **CiderCraft**. If you have suggestions, please [create an issue on GitHub](https://github.com/cryptofyre/CiderCraft-Modpack/issues) or join our [Discord server](https://discord.gg/applemusic).
 
 ## License
 
@@ -58,4 +58,4 @@ Thanks to all the mod creators and contributors who made this modpack possible. 
 
 ---
 
-Enjoy CiderCraft, and happy crafting!
+Enjoy **CiderCraft**, and happy crafting!
