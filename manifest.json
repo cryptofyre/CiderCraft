@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "cidercraft tech",
-  "version": "3.0",
+  "version": "3.1",
   "author": "",
   "files": [
     {
@@ -72,11 +72,6 @@
     {
       "projectID": 241160,
       "fileID": 4939735,
-      "required": true
-    },
-    {
-      "projectID": 350660,
-      "fileID": 4607694,
       "required": true
     },
     {
@@ -210,11 +205,6 @@
       "required": true
     },
     {
-      "projectID": 845743,
-      "fileID": 4932081,
-      "required": true
-    },
-    {
       "projectID": 283644,
       "fileID": 5098182,
       "required": true
@@ -317,11 +307,6 @@
     {
       "projectID": 454372,
       "fileID": 5102258,
-      "required": true
-    },
-    {
-      "projectID": 436482,
-      "fileID": 4983393,
       "required": true
     },
     {
@@ -710,16 +695,6 @@
       "required": true
     },
     {
-      "projectID": 888795,
-      "fileID": 5130569,
-      "required": true
-    },
-    {
-      "projectID": 544434,
-      "fileID": 4763422,
-      "required": true
-    },
-    {
       "projectID": 856996,
       "fileID": 4861833,
       "required": true
@@ -767,6 +742,11 @@
     {
       "projectID": 445385,
       "fileID": 5099572,
+      "required": true
+    },
+    {
+      "projectID": 927564,
+      "fileID": 5131926,
       "required": true
     },
     {
@@ -972,11 +952,6 @@
     {
       "projectID": 351914,
       "fileID": 4824501,
-      "required": true
-    },
-    {
-      "projectID": 356831,
-      "fileID": 5129198,
       "required": true
     },
     {
