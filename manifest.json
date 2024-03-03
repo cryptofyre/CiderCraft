@@ -10,8 +10,8 @@
   },
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
-  "name": "cidercraft tech",
-  "version": "1.6",
+  "name": "cidercraft ",
+  "version": "1.7",
   "author": "",
   "files": [
     {
@@ -22,11 +22,6 @@
     {
       "projectID": 411357,
       "fileID": 5127097,
-      "required": true
-    },
-    {
-      "projectID": 845743,
-      "fileID": 4932081,
       "required": true
     },
     {
@@ -290,6 +285,11 @@
       "required": true
     },
     {
+      "projectID": 495336,
+      "fileID": 4584655,
+      "required": true
+    },
+    {
       "projectID": 228756,
       "fileID": 4614852,
       "required": true
@@ -372,6 +372,11 @@
     {
       "projectID": 261251,
       "fileID": 4626780,
+      "required": true
+    },
+    {
+      "projectID": 391656,
+      "fileID": 5000129,
       "required": true
     },
     {
@@ -780,11 +785,6 @@
       "required": true
     },
     {
-      "projectID": 356831,
-      "fileID": 5129198,
-      "required": true
-    },
-    {
       "projectID": 398521,
       "fileID": 5051242,
       "required": true
@@ -792,11 +792,6 @@
     {
       "projectID": 454798,
       "fileID": 4588512,
-      "required": true
-    },
-    {
-      "projectID": 544434,
-      "fileID": 4763422,
       "required": true
     },
     {
@@ -945,11 +940,6 @@
       "required": true
     },
     {
-      "projectID": 436482,
-      "fileID": 4983393,
-      "required": true
-    },
-    {
       "projectID": 670986,
       "fileID": 5093785,
       "required": true
@@ -1000,11 +990,6 @@
       "required": true
     },
     {
-      "projectID": 350660,
-      "fileID": 4607694,
-      "required": true
-    },
-    {
       "projectID": 929829,
       "fileID": 5126770,
       "required": true
@@ -1037,6 +1022,11 @@
     {
       "projectID": 243121,
       "fileID": 5151658,
+      "required": true
+    },
+    {
+      "projectID": 284324,
+      "fileID": 4672310,
       "required": true
     },
     {
@@ -1077,11 +1067,6 @@
     {
       "projectID": 544048,
       "fileID": 4672356,
-      "required": true
-    },
-    {
-      "projectID": 888795,
-      "fileID": 5130569,
       "required": true
     },
     {
