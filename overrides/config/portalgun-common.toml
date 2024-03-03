@@ -1,0 +1,7 @@
+
+["Rick's Portal Gun mod config"]
+	#Maximum distance for randomizer. Default = 10000
+	randomizer_max = 10000
+	#Disable locating biomes
+	disable_locating = false
+
