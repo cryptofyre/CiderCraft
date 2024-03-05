@@ -37,10 +37,10 @@
 		machineEffects = true
 		#How far (in blocks) from the player radiation particles can spawn.
 		#Range: 2 ~ 64
-		radiationParticleRadius = 30
+		radiationParticleRadius = 20
 		#How many particles spawn when rendering radiation effects (scaled by radiation level).
 		#Range: 0 ~ 1000
-		radiationParticleCount = 100
+		radiationParticleCount = 50
 		#Show bolts when the Magnetic Attraction Unit is pulling items.
 		magneticAttraction = true
 		#Show bolts for various AOE tool behaviors such as tilling, debarking, and vein mining.
