@@ -19,9 +19,9 @@ Follow these steps to install **CiderCraft** through the Prism Launcher:
 
 1. **Download the Modpack Zip File**
 
-   Click the "**Download**" button above or use this link: [Modpack ZIP (main)](https://github.com/cryptofyre/CiderCraft-Modpack/archive/refs/heads/main.zip)
+   Click the "**Download**" button above or use this link: [Modpack ZIP (main)](https://github.com/cryptofyre/CiderCraft/archive/refs/heads/main.zip)
 
-   Alternatively, if you're playing on a **Steam Deck**, enter the following link into Prism launcher: https://github.com/cryptofyre/CiderCraft-Modpack/archive/refs/heads/SteamDeck.zip
+   Alternatively, if you're playing on a **Steam Deck**, enter the following link into Prism launcher: https://github.com/cryptofyre/CiderCraft/archive/refs/heads/SteamDeck.zip
    (You may need to use Desktop mode to complete the installation.)
 
 3. **Install Prism Launcher**
