@@ -100,6 +100,9 @@
   "mysticalagradditions": {
     "infused_farmland": true
   },
+  "pipez": {
+    "pipe": true
+  },
   "appliedcooking": {
     "kitchen_station": true
   },
