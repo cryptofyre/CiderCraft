@@ -12,7 +12,7 @@
 		#Set Fullscreen mode
 		#Borderless let you change between screens more faster and move your mouse across monitors
 		#Allowed Values: WINDOWED, BORDERLESS, FULLSCREEN
-		fullscreen = "FULLSCREEN"
+		fullscreen = "BORDERLESS"
 		#Configure FPS Display gravity
 		#Places counter on specified corner of your screen
 		#Allowed Values: LEFT, CENTER, RIGHT
@@ -91,7 +91,7 @@
 		cloudsHeight = 192
 		#Toggle fog feature
 		#Fog was a vanilla feature, toggling off may increases performance
-		fog = true
+		fog = false
 
 		[embeddiumextras.quality.darkness]
 			#Configure fog brightness on nether when darkness is enabled

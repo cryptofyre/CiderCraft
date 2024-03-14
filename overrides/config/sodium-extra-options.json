@@ -19,7 +19,7 @@
     "sky": false,
     "sun_moon": false,
     "stars": false,
-    "rain_snow": false,
+    "rain_snow": true,
     "biome_colors": false,
     "sky_colors": false
   },
@@ -29,7 +29,8 @@
     "fog_start": 100,
     "multi_dimension_fog_control": false,
     "dimensionFogDistance": {
-      "minecraft:overworld": 0
+      "minecraft:overworld": 0,
+      "minecraft:the_nether": 0
     },
     "light_updates": true,
     "item_frame": true,

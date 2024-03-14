@@ -99,3 +99,4 @@ globalVersion:1
 [XP] null OW Dim Dir:true
 [XP] Data Dir Mode:0
 [XP] Nether Cave Fix:true
+[XP] Disable Xaero Internet Access:false
